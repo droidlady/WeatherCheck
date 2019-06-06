@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherCheck</string>
+    <string name="mydegree">\u2103</string>
+    <string name="noInternet">Please check your internet connection!!</string>
+    <string name="message">Watch face tapped</string>
+    <string name="my_analog_name">My Analog</string>
+</resources>
